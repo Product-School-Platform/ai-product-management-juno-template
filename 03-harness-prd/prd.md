@@ -1,12 +1,8 @@
 # AI PRD · Juno
 
-> Module 3 · Write an AI PRD Engineers Can Build from. The AI product requirements doc specifying all six harness surfaces, built with the **M3 · AI PRD Builder** (archetype and starting settings from the **M3 · Harness Architecture Decider**). Paste the tool's markdown over this file.
-
 ## Problem & user
 
 _The user problem and who has it._
-
-_____
 
 ## The harness
 
@@ -23,7 +19,7 @@ _____
 
 - **Required sources:** _name actual systems and documents, not "internal docs."_
 - **Deliberate exclusions:** _what you left out, and why._
-- **SLA of truth:** _how fast a change in a source becomes a change in the answer._
+- **How fresh it must be:** _how fast a change in a source becomes a change in the answer._
 - **When a source is unreachable:** _fail loudly, or degrade how?_
 
 ## 02 Tools · System Capabilities
@@ -35,12 +31,12 @@ _____
 
 - **Turn ceiling:** _e.g. 5 turns per request._
 - **Escalation trigger:** _what makes it stop and hand back to a human._
-- **Latency and cost target:** _e.g. p95 under 8s, under $0.12 per task._
+- **Latency and cost target:** _e.g. most requests finish in under 8 seconds, under $0.12 per task._
 
 ## 04 Memory · Data Requirements
 
 - **What persists, at what scope:** _turn, session, user, or team._
-- **Expiry:** _TTL per fact._
+- **How long it keeps it:** _a time limit for each fact._
 - **Write rules:** _who outranks the model when a human disagrees._
 
 ## 05 Permissions · AI Risks & Mitigations
@@ -58,10 +54,6 @@ _____
 
 - **The check before output ships:** _what is checked, against what bar._
 - **Failure behavior:** _what happens when the check fails. Silently dropping the output is never the answer._
-
-## Eval plan
-
-_Stub. Module 5 fills this in: the human eval rubric in `05-evals/human-rubric.md`, with its pass bar._
 
 ## Out of scope
 
