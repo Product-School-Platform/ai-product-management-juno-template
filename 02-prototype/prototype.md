@@ -13,9 +13,3 @@ _____
 _The one flow this prototype proves._
 
 _____
-
-## Debrief
-
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
