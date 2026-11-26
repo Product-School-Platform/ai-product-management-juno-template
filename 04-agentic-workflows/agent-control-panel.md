@@ -12,6 +12,16 @@
 
 **Failure modes to watch:** _(missing)_
 
+## Control Panel
+
+**Stop condition:** _(missing)_
+
+**Tool output shape:** _(missing)_
+
+**Confidence threshold:** _(missing)_
+
+**North Star:** _(missing)_
+
 ## Test Cases
 
 ### Failure mode 1

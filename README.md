@@ -16,19 +16,19 @@ This repo is my final project for the **AI Product Management Certification**. E
 - **Skill file**, [`01-prompting/skill-file.md`](01-prompting/skill-file.md)
 
 ### M2 · Prototype the Idea Worth Building
-- **Prototype**, [`02-prototype/prototype.md`](02-prototype/prototype.md). Your prototype link and what it demonstrates.
+- **Prototype**, [`02-prototype/prototype.md`](02-prototype/prototype.md). Link and what it demonstrates.
 
 ### M3 · Write an AI PRD Engineers Can Build from
 - **AI PRD**, [`03-harness-prd/prd.md`](03-harness-prd/prd.md)
 
 ### M4 · Decide When an Agent Acts on Its Own
-- **Agent plan and test cases**, [`04-agentic-workflows/agent-control-panel.md`](04-agentic-workflows/agent-control-panel.md). From the two Module 4 labs.
+- **Agent Control Panel**, [`04-agentic-workflows/agent-control-panel.md`](04-agentic-workflows/agent-control-panel.md). Your agent plan, control panel settings, and test cases, from the Module 4 labs.
 
 ### M5 · Write the Rubric That Scores AI Output
-- **Human eval rubric**, [`05-evals/human-rubric.md`](05-evals/human-rubric.md). From the Module 5 lab.
+- **Human eval rubric**, [`05-evals/human-rubric.md`](05-evals/human-rubric.md). The lab, in class.
 
 ### M6 · Prove the AI Feature Is Worth Keeping
-- **Final presentation**, `final-presentation.html`. Built in the **Final Project Deliverables Builder** from the files above, then committed here. Submit this repo's URL and the presentation (the file, or its GitHub Pages link) on the Learning Platform.
+- **Final presentation**, `final-presentation.html`. Built in the **Final Project Deliverables Builder** from the files above, then committed here. Submit this repo's URL and the presentation (its GitHub Pages link or the file) on the learning platform.
 
 ---
 
@@ -45,9 +45,9 @@ juno-pm/
 ├── 03-harness-prd/
 │   └── prd.md                         ← M3: AI PRD specifying all six harness surfaces
 ├── 04-agentic-workflows/
-│   └── agent-control-panel.md         ← M4: agent plan and test cases
+│   └── agent-control-panel.md         ← M4: Agent Control Panel
 └── 05-evals/
-    └── human-rubric.md                ← M5: human eval rubric
+    └── human-rubric.md                ← M5 lab: human eval rubric
 ```
 
 ---
